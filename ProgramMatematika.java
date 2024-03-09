@@ -155,7 +155,7 @@ public class ProgramMatematika {
                 System.out.print("Masukkan Tinggi Limas Segitiga : ");
                 tinggi_limas_segitiga = scanner.nextFloat();
                 v_l_s = volumeLimasSegitiga(alas_limas_segitiga, tinggi_segitiga_limas, tinggi_limas_segitiga);
-                System.out.printf("Luas Permukaan Limas Segiempat Adalah : %.2f\n\n");
+                System.out.printf("Luas Permukaan Limas Segitiga Adalah : %.2f\n\n");
                 break;
             case 5:
                 System.out.print("Masukkan Panjang Sisi Alas Limas Segiempat : ");
